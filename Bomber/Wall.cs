@@ -1,0 +1,6 @@
+using SplashKitSDK;
+
+namespace BomberGame
+{
+    
+}
